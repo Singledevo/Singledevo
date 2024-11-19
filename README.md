@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Embedded System Engineer | Passionate about IoT, RTOS, and Linux Device Drivers</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1730305948991-326bb54514c5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8" alt="Shashank Ingle" width="300" />
+  <img src="https://raw.githubusercontent.com/Singledevo/Singledevo/refs/heads/main/DALL·E%202024-11-19%2021.38.51%20-%20A%20professional-looking%20cartoon-style%20profile%20picture%20of%20a%20young%20man%20with%20a%20round%20face%2C%20big%20mustache%2C%20no%20beard%2C%20and%20small%2C%20neatly%20combed%20sticky%20hair.%20T.jpg" alt="Shashank Ingle" width="300" />
 </p>
 
 ---
